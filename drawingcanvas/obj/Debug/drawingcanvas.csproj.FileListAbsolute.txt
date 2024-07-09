@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Login\drawingcanvas\bin\Debug\drawingcanvas.exe.config
+C:\Users\HP\source\repos\Login\drawingcanvas\bin\Debug\drawingcanvas.exe
+C:\Users\HP\source\repos\Login\drawingcanvas\bin\Debug\drawingcanvas.pdb
+C:\Users\HP\source\repos\Login\drawingcanvas\obj\Debug\drawingcanvas.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Login\drawingcanvas\obj\Debug\drawingcanvas.Form1.resources
+C:\Users\HP\source\repos\Login\drawingcanvas\obj\Debug\drawingcanvas.Properties.Resources.resources
+C:\Users\HP\source\repos\Login\drawingcanvas\obj\Debug\drawingcanvas.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Login\drawingcanvas\obj\Debug\drawingcanvas.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Login\drawingcanvas\obj\Debug\drawingcanvas.exe
+C:\Users\HP\source\repos\Login\drawingcanvas\obj\Debug\drawingcanvas.pdb

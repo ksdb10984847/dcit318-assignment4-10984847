@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Login\Address book\bin\Debug\Address book.exe.config
+C:\Users\HP\source\repos\Login\Address book\bin\Debug\Address book.exe
+C:\Users\HP\source\repos\Login\Address book\bin\Debug\Address book.pdb
+C:\Users\HP\source\repos\Login\Address book\obj\Debug\Address book.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Login\Address book\obj\Debug\Address_book.Form1.resources
+C:\Users\HP\source\repos\Login\Address book\obj\Debug\Address_book.Properties.Resources.resources
+C:\Users\HP\source\repos\Login\Address book\obj\Debug\Address book.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Login\Address book\obj\Debug\Address book.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Login\Address book\obj\Debug\Address book.exe
+C:\Users\HP\source\repos\Login\Address book\obj\Debug\Address book.pdb
